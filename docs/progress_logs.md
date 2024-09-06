@@ -8,3 +8,4 @@ Date format: yymmdd
 2. Creation and setup of azure storage account
 3. Creation of bronze, silver and gold containers
 4. Installed delta-spark and azure-storage-blob pip packages in local spark docker container
+5. Achieved connection to azure lakehouse from on-prem spark session and first write of delta parquet file to azure lakehouse
